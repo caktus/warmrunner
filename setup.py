@@ -8,7 +8,7 @@ setup(
     version='0.0.1',
     packages=find_packages(),
     url='https://github.com/caktus/warmrunner',
-    license='APL2',
+    license='BSD',
     author='Dan Poirier',
     author_email='dpoirier@caktusgroup.com',
     description='A Django test runner that shows which tests are slowest',
@@ -19,7 +19,7 @@ setup(
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
-        'License :: OSI Approved :: Apache Software License',
+        'License :: OSI Approved :: BSD License',
         'Operating System :: OS Independent',
         'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3',
